@@ -1,5 +1,9 @@
 ## Moveit - Aplicação baseada em Pomodoro
 
+O app web Moveit é uma aplicação baseada na técnica de pomodoro junto de desafios envolvendo exercícios físicos, ideal para quem passa muito tempo na frente do computador. 
+
+In progress...
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
