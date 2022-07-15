@@ -1,7 +1,5 @@
 import { createContext, useState, ReactNode } from 'react';
 
-export const ChallengesContext = createContext({});
-
 interface ChallengesContextData {
     level: number;
     currentExperience: number;
